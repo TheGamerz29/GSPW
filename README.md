@@ -1,6 +1,4 @@
 # GSPW: Gain System Privilege in Windows.
-version 1.0<br>
-build 0021<br>
 Coded by TheGamerz
 
 **NOTE:**<br>
@@ -19,6 +17,14 @@ Everything, even delete CRUCIAL system file.<br>
 ## Is it dangerous for tech noobs?
 Yes, really dangerous as it can render Windows unusable. Please make sure you are experienced enough to<br>
 use this program.<br>
+
+## Screenshots
+![GSPWUI](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWUI.png)<br>
+> *Screenshot of GSPW UI*
+![GSPWCMD](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWCMD.png)<br>
+> *CMD Mode*<br>
+![GSPWPOW](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWPOW.png)<br>
+> *Powershell Mode*<br>
 
 Windows Defender detects GSPW as a virus, it's false positive.<br>
 Please turn off your antivirus before installing GSPW.<br>
