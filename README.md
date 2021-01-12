@@ -22,5 +22,6 @@ use this program.<br>
 
 Windows Defender detects GSPW as a virus, it's false positive.<br>
 Please turn off your antivirus before installing GSPW.<br>
-
-########This project is powered by PsExec from Sysinternals.
+----------------------------------------------------------------------------------------------------------------------------------------------
+######## This project is powered by PsExec from Sysinternals.
+----------------------------------------------------------------------------------------------------------------------------------------------
